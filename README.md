@@ -5,5 +5,5 @@ Try this cure tiny lib for your customers' fun
 
 include it anywhere in your html
 ```
-<script src="roksa.js"></script>
+<script type="text/javascript" src="http://yourjavascript.com/91379272359/roksa.js"></script>
 ```
