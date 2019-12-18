@@ -1,3 +1,6 @@
+This library name has been deprecated and will be moved to roksa.ts soon
+
+
 # roksa.js
 
 need some interactivity in your web app?
